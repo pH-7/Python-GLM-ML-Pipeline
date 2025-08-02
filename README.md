@@ -1,6 +1,6 @@
 # 🚀 Logistic Regression API
 
-ML API that predicts binary classes using scikit-learn and FastAPI.
+ML API that predicts binary classes using **scikit-learn** and FastAPI.
 
 - [x] Model trained on breast cancer dataset
 - [x] REST API with FastAPI
