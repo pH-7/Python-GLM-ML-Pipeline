@@ -1,11 +1,10 @@
 # 🚀 Logistic Regression API
 
-ML API that predicts binary classes using **scikit-learn** and FastAPI.
+**ML API** that predicts binary classes using **scikit-learn** and FastAPI.
 
-- [x] Model trained on breast cancer dataset
-- [x] REST API with FastAPI
-- [x] Docker support
-- [x] Built by [Pierre-Henry Soria](https://pierrehenry.be)
+- Model trained on breast cancer dataset
+- REST API with FastAPI
+- Docker support
 
 ## 🔋 Run Locally
 
