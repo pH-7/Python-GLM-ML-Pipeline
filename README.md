@@ -3,7 +3,7 @@
 **ML API** that predicts binary classes using **scikit-learn** and FastAPI.
 
 - Model trained on breast cancer dataset
-- REST API with FastAPI
+- REST API with FastAPI - real-time requests
 - Docker support
 
 ## 🔋 Run Locally
