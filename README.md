@@ -1,4 +1,4 @@
-# 🚀 Logistic Regression API
+# 🚀 ML Python Pipeline: Logistic Regression (GLM)
 
 **ML API** that predicts binary classes using **scikit-learn** and FastAPI.
 
