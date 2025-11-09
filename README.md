@@ -1,8 +1,8 @@
 # 🚀 ML Python Pipeline: Logistic Regression (GLM)
 
-[![Learn Data Science with a Python GML Pipeline for Logistic Regression with FastAPI, scikit learn, ...](https://i1.ytimg.com/vi/1d7R7ckV08I/sddefault.jpg)](https://www.youtube.com/watch?v=1d7R7ckV08I)
+[![Learn Data Science with a Python GML Pipeline for Logistic Regression with FastAPI, scikit learn, ...](https://i1.ytimg.com/vi/K5_O-kSyiyg/sddefault.jpg)](https://www.youtube.com/watch?v=K5_O-kSyiyg)
 
-_**[→ Watch it directly on YouTube](https://www.youtube.com/watch?v=1d7R7ckV08I)**_
+_**[→ Watch it directly on YouTube](https://www.youtube.com/watch?v=K5_O-kSyiyg)**_
 
 
 **ML API** that predicts binary classes using **scikit-learn** and FastAPI.
