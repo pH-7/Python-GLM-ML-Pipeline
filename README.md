@@ -4,6 +4,7 @@
 
 _**[→ Watch it directly on YouTube](https://www.youtube.com/watch?v=K5_O-kSyiyg)**_
 
+---
 
 **ML API** that predicts binary classes using **scikit-learn** and FastAPI.
 
